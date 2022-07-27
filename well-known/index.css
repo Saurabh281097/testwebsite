@@ -1,0 +1,12 @@
+html{
+    margin :0;
+    padding: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    
+}
+
+.buttonclass{
+    margin-top: 200px;
+    margin-left:300px
+}
