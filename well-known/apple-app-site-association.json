@@ -2,7 +2,7 @@
     "applinks": {
         "details": [
             {
-                "appIDs": [ "com.infogenLabs.NewAPP" ],
+                "appIDs": [ "ZL9DDXABC9.com.infogenLabs.NewAPP" ],
                 "components": [
 
                 ],
@@ -16,6 +16,6 @@
     },
 
     "appclips": {
-        "apps": [ "com.infogenLabs.NewAPP.Clip" ]
+        "apps": [ "ZL9DDXABC9.com.infogenLabs.NewAPP.Clip" ]
     }
 }
